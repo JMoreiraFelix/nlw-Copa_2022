@@ -71,7 +71,7 @@ createCard( '27/11', 'domingo', createGame("costa rica", "1", "07:00", "0", "jap
 +
 createCard( '28/11', 'segunda-feira', createGame("camarões", "3", "07:00", "3", "sérvia") + createGame("coréia do sul", "2", "10:00", "3", "gana") + createGame("brasil", "1", "13:00", "0", "suíça") + createGame("portugal", "2", "16:00", "0", "uruguai"))
 +
-createCard( '29/11', 'terça-feira', createGame("senegal", "-", "12:00", "-", "equador") + createGame("holanda", "-", "12:00", "-", "qatar") + createGame("irã", "-", "16:00", "-", "eua") + createGame("inglaterra", "-", "16:00", "-", "gales"))
+createCard( '29/11', 'terça-feira', createGame("senegal", "2", "12:00", "1", "equador") + createGame("holanda", "2", "12:00", "0", "qatar") + createGame("irã", "0", "16:00", "1", "eua") + createGame("inglaterra", "3", "16:00", "0", "gales"))
 +
 createCard( '30/11', 'quarta-feira', createGame("frança", "-", "12:00", "-", "tunísia") + createGame("austrália", "-", "12:00", "-", "dinamarca") + createGame("argentina", "-", "16:00", "-", "polônia") + createGame("méxico", "-", "16:00", "-", "arábia"))
 +
@@ -80,9 +80,9 @@ createCard( '01/12', 'quinta-feira', createGame("bélgica", "-", "12:00", "-", "
 createCard( '02/12', 'sexta-feira', createGame("coréia do sul", "-", "12:00", "-", "portugal") + createGame("uruguai", "-", "12:00", "-", "gana") + createGame("brasil", "-", "16:00", "-", "camarões") + createGame("suíça", "-", "16:00", "-", "sérvia"))
 /*
 +
-createCard( '03/12', 'sábado', createGame("CORÉIA DO SUL", "-", "12:00", "-", "PORTUGAL") + createGame("URUGUAI", "-", "16:00", "-", "GANA")
+createCard( '03/12', 'sábado', createGame("holanda", "-", "12:00", "-", "eua") + createGame("URUGUAI", "-", "16:00", "-", "GANA")
 +
-createCard( '04/12', 'domingo', createGame("CORÉIA DO SUL", "-", "12:00", "-", "PORTUGAL") + createGame("URUGUAI", "-", "16:00", "-", "GANA")
+createCard( '04/12', 'domingo', createGame("inglaterra", "-", "12:00", "-", "senegal") + createGame("URUGUAI", "-", "16:00", "-", "GANA")
 +
 createCard( '05/12', 'segunda-feira', createGame("CORÉIA DO SUL", "-", "12:00", "-", "PORTUGAL") + createGame("URUGUAI", "-", "16:00", "-", "GANA") 
 +
