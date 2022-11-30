@@ -73,16 +73,18 @@ createCard( '28/11', 'segunda-feira', createGame("camarões", "3", "07:00", "3",
 +
 createCard( '29/11', 'terça-feira', createGame("senegal", "2", "12:00", "1", "equador") + createGame("holanda", "2", "12:00", "0", "qatar") + createGame("irã", "0", "16:00", "1", "eua") + createGame("inglaterra", "3", "16:00", "0", "gales"))
 +
-createCard( '30/11', 'quarta-feira', createGame("frança", "-", "12:00", "-", "tunísia") + createGame("austrália", "-", "12:00", "-", "dinamarca") + createGame("argentina", "-", "16:00", "-", "polônia") + createGame("méxico", "-", "16:00", "-", "arábia"))
+createCard( '30/11', 'quarta-feira', createGame("frança", "0", "12:00", "1", "tunísia") + createGame("austrália", "1", "12:00", "0", "dinamarca") + createGame("argentina", "2", "16:00", "0", "polônia") + createGame("méxico", "2", "16:00", "1", "arábia"))
 +
 createCard( '01/12', 'quinta-feira', createGame("bélgica", "-", "12:00", "-", "croácia") + createGame("marrocos", "-", "12:00", "-", "canadá") + createGame("espanha", "-", "16:00", "-", "japão") + createGame("costa rica", "-", "16:00", "-", "alemanha"))
 +
 createCard( '02/12', 'sexta-feira', createGame("coréia do sul", "-", "12:00", "-", "portugal") + createGame("uruguai", "-", "12:00", "-", "gana") + createGame("brasil", "-", "16:00", "-", "camarões") + createGame("suíça", "-", "16:00", "-", "sérvia"))
++
+createCard( '03/12', 'sábado', createGame("holanda", "-", "12:00", "-", "eua")) 
+// +  createGame("URUGUAI", "-", "16:00", "-", "GANA")
++
+createCard( '04/12', 'domingo', createGame("inglaterra", "-", "12:00", "-", "senegal"))
+// + createGame("URUGUAI", "-", "16:00", "-", "GANA")
 /*
-+
-createCard( '03/12', 'sábado', createGame("holanda", "-", "12:00", "-", "eua") + createGame("URUGUAI", "-", "16:00", "-", "GANA")
-+
-createCard( '04/12', 'domingo', createGame("inglaterra", "-", "12:00", "-", "senegal") + createGame("URUGUAI", "-", "16:00", "-", "GANA")
 +
 createCard( '05/12', 'segunda-feira', createGame("CORÉIA DO SUL", "-", "12:00", "-", "PORTUGAL") + createGame("URUGUAI", "-", "16:00", "-", "GANA") 
 +
