@@ -77,16 +77,16 @@ createCard( '30/11', 'quarta-feira', createGame("frança", "0", "12:00", "1", "t
 +
 createCard( '01/12', 'quinta-feira', createGame("bélgica", "0", "12:00", "0", "croácia") + createGame("marrocos", "2", "12:00", "1", "canadá") + createGame("espanha", "1", "16:00", "2", "japão") + createGame("costa rica", "2", "16:00", "4", "alemanha"))
 +
-createCard( '02/12', 'sexta-feira', createGame("coréia do sul", "-", "12:00", "-", "portugal") + createGame("uruguai", "-", "12:00", "-", "gana") + createGame("brasil", "-", "16:00", "-", "camarões") + createGame("suíça", "-", "16:00", "-", "sérvia"))
+createCard( '02/12', 'sexta-feira', createGame("coréia do sul", "2", "12:00", "1", "portugal") + createGame("uruguai", "2", "12:00", "0", "gana") + createGame("brasil", "0", "16:00", "1", "camarões") + createGame("suíça", "3", "16:00", "2", "sérvia"))
 +
-createCard( '03/12', 'sábado', createGame("holanda", "-", "12:00", "-", "eua") +  createGame("argentina", "-", "16:00", "-", "austrália"))
+createCard( '03/12', 'sábado', createGame("holanda", "3", "12:00", "1", "eua") +  createGame("argentina", "2", "16:00", "1", "austrália"))
 +
-createCard( '04/12', 'domingo', createGame("frança", "-", "12:00", "-", "polônia") + createGame("inglaterra", "-", "16:00", "-", "senegal"))
+createCard( '04/12', 'domingo', createGame("frança", "3", "12:00", "1", "polônia") + createGame("inglaterra", "3", "16:00", "0", "senegal"))
++
+createCard( '05/12', 'segunda-feira', createGame("japão", "1", "12:00", "1", "croácia") + createGame("brasil", "4", "16:00", "1", "coréia do sul")) 
++
+createCard( '06/12', 'terça-feira', createGame("espanha", "0", "12:00", "0", "marrocos") + createGame("portugal", "6", "16:00", "1", "suíça"))
 /*
-+
-createCard( '05/12', 'segunda-feira', createGame("japão", "-", "12:00", "-", "croácia") + createGame("brasil", "-", "16:00", "-", "GANA") 
-+
-createCard( '06/12', 'terça-feira', createGame("a", "-", "12:00", "-", "a") + createGame("a", "-", "16:00", "-", "a") 
 +
 createCard( '09/12', 'sexta-feira', createGame("a", "-", "12:00", "-", "a") + createGame("a", "-", "16:00", "-", "a") 
 +
