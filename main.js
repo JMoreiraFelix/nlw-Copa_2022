@@ -87,14 +87,16 @@ createCard( '05/12', 'segunda-feira', createGame("japão", "1", "12:00", "1", "c
 +
 createCard( '06/12', 'terça-feira', createGame("espanha", "0", "12:00", "0", "marrocos") + createGame("portugal", "6", "16:00", "1", "suíça"))
 +
-createCard( '09/12', 'sexta-feira', createGame("brasil", "-", "12:00", "-", "croácia") + createGame("holanda", "-", "16:00", "-", "argentina"))
+createCard( '09/12', 'sexta-feira', createGame("brasil", "1", "12:00", "1", "croácia") + createGame("holanda", "2", "16:00", "2", "argentina"))
 +
-createCard( '10/12', 'sábado', createGame("marrocos", "-", "12:00", "-", "portugal") + createGame("inglaterra", "-", "16:00", "-", "frança"))
+createCard( '10/12', 'sábado', createGame("marrocos", "1", "12:00", "0", "portugal") + createGame("inglaterra", "1", "16:00", "2", "frança"))
++
+createCard( '13/12', 'terça-feira', createGame("argentina", "-", "16:00", "-", "croácia"))
++
+createCard( '14/12', 'quarta-feira', createGame("frança", "-", "16:00", "-", "marrocos"))
 /*
 +
-createCard( '13/12', 'terça-feira', createGame("a", "-", "12:00", "-", "a") + createGame("a", "-", "16:00", "-", "a"))
+createCard( '17/12', 'sábado', createGame("a", "-", "12:00", "-", "a"))
 +
-createCard( '17/12', 'sábado', createGame("a", "-", "12:00", "-", "a") + createGame("a", "-", "16:00", "-", "a"))
-+
-createCard( '18/12', 'domingo', createGame("a", "-", "12:00", "-", "a") + createGame("a", "-", "16:00", "-", "a"))
+createCard( '18/12', 'domingo', createGame("a", "-", "12:00", "-", "a"))
 */
