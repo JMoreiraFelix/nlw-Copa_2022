@@ -91,12 +91,10 @@ createCard( '09/12', 'sexta-feira', createGame("brasil", "1", "12:00", "1", "cro
 +
 createCard( '10/12', 'sábado', createGame("marrocos", "1", "12:00", "0", "portugal") + createGame("inglaterra", "1", "16:00", "2", "frança"))
 +
-createCard( '13/12', 'terça-feira', createGame("argentina", "-", "16:00", "-", "croácia"))
+createCard( '13/12', 'terça-feira', createGame("argentina", "3", "16:00", "0", "croácia"))
 +
-createCard( '14/12', 'quarta-feira', createGame("frança", "-", "16:00", "-", "marrocos"))
-/*
+createCard( '14/12', 'quarta-feira', createGame("frança", "2", "16:00", "0", "marrocos"))
 +
-createCard( '17/12', 'sábado', createGame("a", "-", "12:00", "-", "a"))
+createCard( '17/12', 'sábado', createGame("croácia", "-", "12:00", "-", "marrocos"))
 +
-createCard( '18/12', 'domingo', createGame("a", "-", "12:00", "-", "a"))
-*/
+createCard( '18/12', 'domingo', createGame("argentina", "-", "12:00", "-", "frança"))
