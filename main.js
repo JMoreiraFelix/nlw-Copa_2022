@@ -95,6 +95,6 @@ createCard( '13/12', 'terça-feira', createGame("argentina", "3", "16:00", "0", 
 +
 createCard( '14/12', 'quarta-feira', createGame("frança", "2", "16:00", "0", "marrocos"))
 +
-createCard( '17/12', 'sábado', createGame("croácia", "-", "12:00", "-", "marrocos"))
+createCard( '17/12', 'sábado', createGame("croácia", "2", "12:00", "1", "marrocos"))
 +
-createCard( '18/12', 'domingo', createGame("argentina", "-", "12:00", "-", "frança"))
+createCard( '18/12', 'domingo', createGame("argentina", "3", "12:00", "3", "frança"))
